@@ -1,5 +1,0 @@
-language: kotlin
-rvm:
- - 2.2
- - jruby
- - rbx-2
